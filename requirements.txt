@@ -1,0 +1,11 @@
+# 本目录 GPU / API 结果解析共用依赖。
+# 不包含 vLLM。多模态 vLLM 安装见 README。
+# 鸿蒙 PC 上的 Machine_test/run_chat.sh 只需要 curl，不要装这些包，也不要 python。
+
+openai>=1.30.0
+pandas>=2.0.0
+pyarrow>=12.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+tabulate>=0.9.0
+openpyxl>=3.1.0

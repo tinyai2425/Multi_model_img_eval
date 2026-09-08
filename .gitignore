@@ -1,0 +1,12 @@
+Data_set/*
+!Data_set/README.md
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.xlsx
+*.png
+tmp_*.json
+tmp_*.raw
+tmp_*.jpg
+
